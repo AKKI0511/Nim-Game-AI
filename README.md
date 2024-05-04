@@ -1,6 +1,6 @@
 # Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/39H-E1_DKsw" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/39H-E1_DKsw
 
 # Nim AI Game
 
